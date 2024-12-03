@@ -66,8 +66,9 @@ This repository implements a **Retrieval-Augmented Generation (RAG)** based Ques
 4. Interact with the chatbot in the Colab interface.  
 
 ---
-## Fine-Tuned Model  
-The fine-tuned T5 model and FAISS index is available for download [here]([https://drive.google.com/file/d/<YOUR-FILE-ID](https://drive.google.com/file/d/1hKHObUp0JnkjrPd0kChy2Kifk7n-QRWX/view?usp=sharing)>) (Google Drive link).  
+## Fine-Tuned Model And FAISS Index
+The fine-tuned T5 model is available with FAISS Index for download  [here](https://drive.google.com/file/d/1hKHObUp0JnkjrPd0kChy2Kifk7n-QRWX/view?usp=sharing).  
+ 
 
 
 ## Acknowledgments  
